@@ -17,12 +17,10 @@ The **Food Reserve Employee** application is a Vue.js-based web application desi
 Here are some screenshots of the application in action:
 
 ### Login Page
-![Screenshot from 2024-12-24 09-27-37](https://github.com/user-attachments/assets/68df0072-2e50-4379-b018-f8fffa20bfb3)
-
+<img src="https://github.com/user-attachments/assets/68df0072-2e50-4379-b018-f8fffa20bfb3" alt="Login Page" width="600">
 
 ### Meal Selection
-![Screenshot from 2024-12-24 09-28-58](https://github.com/user-attachments/assets/c93d7805-4507-4466-b137-fe039a78f326)
-
+<img src="https://github.com/user-attachments/assets/c93d7805-4507-4466-b137-fe039a78f326" alt="Meal Selection" width="600">
 
 ## Components
 

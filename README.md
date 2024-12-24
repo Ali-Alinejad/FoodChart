@@ -12,6 +12,18 @@ The **Food Reserve Employee** application is a Vue.js-based web application desi
 - 🔒 **Login System**: Secure login system to authenticate users.
 - 📱 **Responsive Design**: Optimized for both desktop and mobile devices.
 
+## Picture Demo
+
+Here are some screenshots of the application in action:
+
+### Login Page
+![Login Page](https://github.com/yourusername/FoodReserveEmployee/issues/1#issue-1)
+
+
+### Meal Selection
+![Meal Selection](https://github.com/yourusername/FoodReserveEmployee/issues/3#issue-3)
+
+
 ## Components
 
 ### `Reserve.vue`
@@ -75,18 +87,6 @@ The application integrates with a backend API to fetch the weekly menu and manag
 3. **🍽️ Select Meals**: Click on the meal options to select your preferred meals for each day.
 4. **📝 Manage Orders**: Use the delete button to remove any unwanted orders.
 
-## Picture Demo
-
-Here are some screenshots of the application in action:
-
-### Login Page
-![Login Page](https://github.com/yourusername/FoodReserveEmployee/issues/1#issue-1)
-
-### Weekly Menu
-![Weekly Menu](https://github.com/yourusername/FoodReserveEmployee/issues/2#issue-2)
-
-### Meal Selection
-![Meal Selection](https://github.com/yourusername/FoodReserveEmployee/issues/3#issue-3)
 
 ## Contributing
 
